@@ -1,0 +1,37 @@
+{
+  "generator-jhipster": {
+    "promptValues": {
+      "packageName": "com.jin.timesheet"
+    },
+    "jhipsterVersion": "6.7.1",
+    "applicationType": "gateway",
+    "baseName": "Timesheet",
+    "packageName": "com.jin.timesheet",
+    "packageFolder": "com/jin/timesheet",
+    "serverPort": "8080",
+    "authenticationType": "jwt",
+    "cacheProvider": "ehcache",
+    "enableHibernateCache": true,
+    "websocket": false,
+    "databaseType": "sql",
+    "devDatabaseType": "mysql",
+    "prodDatabaseType": "mysql",
+    "searchEngine": "elasticsearch",
+    "messageBroker": "kafka",
+    "serviceDiscoveryType": "eureka",
+    "buildTool": "maven",
+    "enableSwaggerCodegen": false,
+    "jwtSecretKey": "YzQwY2JiMTlkN2ZlNjBiZDk2YmExZWY1NmJlYTY2YjgwOTE0MmJlNjk3ZGU4Y2U3NzU5MWZkOTZkNjk1NTc3ODdmNjFhZTdkNTQyZGE2NzM5Y2E5ODgzYjRhNWNiZTI2NGZmYTQ2OTI3M2U5MmY5ZTMyZmViMzBiZTJhNTIyZmI=",
+    "embeddableLaunchScript": false,
+    "creationTimestamp": 1582477213831,
+    "testFrameworks": ["cucumber"],
+    "jhiPrefix": "jhi",
+    "entitySuffix": "",
+    "dtoSuffix": "DTO",
+    "otherModules": [],
+    "enableTranslation": false,
+    "clientPackageManager": "npm",
+    "blueprints": [],
+    "skipClient": true
+  }
+}
